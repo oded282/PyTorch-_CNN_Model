@@ -5,8 +5,8 @@ I trained a model to classify a speech command using speech data, each speech ut
 The provided dataset contains 30 different categories of commands, my task was to train a classifier that classifies this data,
 using ML techniques like DropOut, BatchNorm, MaxPool and RelU activation function.
 My project includes few files:
-ex4.py - My CNN model.
-gcommand loader.py - My data loader.
+* ex4.py - My CNN model.
+* gcommand loader.py - My data loader.
 
 * The data set:
 https://github.com/orsanawwad/ML4_dataset/tree/master/data -The data set was to big to load and run on basic laptop,
