@@ -8,11 +8,11 @@ My project includes few files:
 ex4.py - My CNN model.
 gcommand loader.py - My data loader.
 
-The data set:
+*The data set:
 https://github.com/orsanawwad/ML4_dataset/tree/master/data -The data set was to big to load and run on basic laptop,
 all the data was saved to github, and i used google colab to run the algorithm on my GPU. 
 
-Run this on, as a code block in google colab first.
+*Run this on, as a code block in google colab first.
 ! rm -rf ./sample_data
 ! git clone https://github.com/orsanawwad/ML4_dataset.git
 ! mv ./ML4_dataset/* ./
