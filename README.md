@@ -12,11 +12,13 @@ The data set:
 * https://github.com/orsanawwad/ML4_dataset/tree/master/data -The data set was to big to load and run on basic laptop,
 all the data was saved to github, and i used google colab to run the algorithm on my GPU. 
 
-Run this on, as a code block in google colab first:
+On google colab change runtime type, hardware accelerator, to GPU for reasonable runtime.
+Run this on as a code block in google colab first:
 * ! rm -rf ./sample_data
 * ! git clone https://github.com/orsanawwad/ML4_dataset.git
 * ! mv ./ML4_dataset/* ./
 * ! rm -rf ./ML4_dataset
 * ! pip install soundfile
+* ! python3 ex4.py
 
 info.pdf includes my convolutional and neural network details so as my model results, you are more then welcome to take a look.
