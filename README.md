@@ -1,4 +1,4 @@
-# PyTorch-_CNN_Model
+# PyTorch_CNN_Model
 
 In this exercise I implemented PyTorch model.
 I trained a model to classify a speech command using speech data, each speech utterance is ∼ 1 sec long.
