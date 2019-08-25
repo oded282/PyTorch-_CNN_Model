@@ -9,7 +9,7 @@ My project includes few files:
 * gcommand loader.py - My data loader.
 
 The data set:
-* https://github.com/orsanawwad/ML4_dataset/tree/master/data -The data set was to big to load and run on basic laptop,
+* https://github.com/orsanawwad/ML4_dataset/tree/master/data -The data set was to big to load and run on basic CPU,
 all the data was saved to github, and i used google colab to run the algorithm on my GPU. 
 
 On google colab change runtime type, hardware accelerator, to GPU for reasonable runtime.
